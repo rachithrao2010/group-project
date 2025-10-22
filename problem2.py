@@ -16,3 +16,4 @@ def factorial(n):
 if __name__ == "__main__":
     num = int(input("Enter a number: "))
     pr
+
